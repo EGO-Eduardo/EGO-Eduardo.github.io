@@ -117,12 +117,19 @@ style.css
 .awards-company-name {
     font-size: 25px;
     font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #FDB44B;
+    padding-bottom: 0.4rem;
 }
 
 .exp-time-period,
-.educationp-time-period,
+.education-time-period,
 .awards-time-period {
     font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 2rem;
+
 }
 
 .exp-position,
