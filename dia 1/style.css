@@ -7,6 +7,12 @@ style.css
     font-family: 'Roboto', sans-serif;
 }
 
+.awards-desc a{
+    text-decoration-line:none;
+    color:#eeeeee;
+    font-style:italic;
+
+}
 .resume-contents {
     min-height: 100vh;
     width: 80%;
@@ -114,7 +120,7 @@ style.css
 
 .exp-company-name,
 .education-school-name,
-.awards-company-name {
+.awards-name {
     font-size: 25px;
     font-weight: bold;
     text-transform: uppercase;
@@ -134,7 +140,7 @@ style.css
 
 .exp-position,
 .education-subject,
-.awards-name {
+.awards-subject {
     font-size: 25px;
 }
 
